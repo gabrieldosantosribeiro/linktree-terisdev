@@ -3,7 +3,7 @@
 //  Altere apenas as URLs abaixo para atualizar os botões
 // ============================================================
 const LINKS = {
-  portfolio: '#',
+  portfolio: 'https://gabrieldosantosribeiro.github.io/teris-portfolio/',
   linkedin: 'https://www.linkedin.com/in/gabriel-dos-santos-a951723b0/',
   whatsapp: 'https://wa.me/5511975656755?text=Olá!%20Vim%20pelo%20Instagram%20Teris%20Dev%20e%20gostaria%20de%20saber%20mais%20sobre%20seus%20serviços.',
 };
